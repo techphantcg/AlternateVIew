@@ -11,3 +11,6 @@ Also added Force Orientation change.
 Original Sample Code -
 
 https://developer.apple.com/library/ios/samplecode/AlternateViews/Introduction/Intro.html
+
+
+<img src="https://github.com/techphantcg/AlternateVIew/blob/master/giphy.gif">
