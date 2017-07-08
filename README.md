@@ -1,5 +1,7 @@
 # AlternateViews
 
+<img src="https://img.shields.io/badge/language-swift3.2-green.svg?style=flat">
+
 This sample demonstrates how to implement alternate or distinguishing views for particular device orientations. Doing so can be useful if your app displays different content between orientations or if your app uses vastly different layouts between orientations which cannot be reconciled by auto layout or programatic layout alone.
 Two different techniques are illustrated.
 
